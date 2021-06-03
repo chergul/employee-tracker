@@ -151,9 +151,9 @@ function employeeByDepartment() {
         message: "By which department would you like to view the employees?",
         choices: [
             "Sales", 
-            "Engineering",
+            "Legal",
             "Finance",
-            "Marketing"
+            "IT"
         ]
     }).then(function (answer) {
         var query = `SELECT employee.id, CONCAT(employee.first_name, " ", employee.last_name) AS Fullname, department.name AS department
