@@ -12,7 +12,7 @@ EXPRESS Note Taker is intended to be used for anyone who needs a place to organi
 ​
 ## Screenshot for the application
 ​
-![Screenshot](./Assets/Screenshot.png)
+![Screenshot](./Assets/employee.png)
 ​
 ## Video for the app
 ​
